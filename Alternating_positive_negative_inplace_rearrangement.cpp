@@ -1,4 +1,5 @@
 //Program to rearrange array in alternating positive & negative items using inplace rearrangement
+
 #include<stdio.h>
 int main(){
 	//Initializing identifiers
