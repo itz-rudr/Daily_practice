@@ -1,4 +1,5 @@
 //Program to check whether a array is sorted and rotated using Min/Max position logic
+
 #include<stdio.h>
 int main(){
 	//Initializing identifiers
