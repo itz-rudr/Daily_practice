@@ -1,4 +1,5 @@
 //Program to check if array is sorted and rotated using brute force
+
 #include<stdio.h>
 int main(){
 	//Initializing identifiers
