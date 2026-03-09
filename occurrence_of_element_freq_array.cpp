@@ -1,4 +1,5 @@
 //Count the numbers of occurrences of an element using frequency array
+
 #include<stdio.h>
 int main(){
 	//Initializing identifiers
