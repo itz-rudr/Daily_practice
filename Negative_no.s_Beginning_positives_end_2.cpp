@@ -1,4 +1,5 @@
 ////Program to move all negative numbers to beginning and positive to end using an extra array.
+
 #include<stdio.h>
 int main(){
 	//Initializing identifier
