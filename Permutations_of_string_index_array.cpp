@@ -1,4 +1,5 @@
 //Program to print all permutations of a string using index-array
+
 #include<stdio.h>
 int main(){
 	int n;
