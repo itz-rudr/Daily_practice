@@ -1,4 +1,5 @@
 //Program to reverse an array using extra array
+
 #include<stdio.h>
 int main(){
 	int a[5],rev[5];
