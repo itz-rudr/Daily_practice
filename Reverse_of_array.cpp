@@ -1,4 +1,5 @@
 //Program to reverse an array loop logic
+
 #include<stdio.h>
 int main(){
 	int a[5];
