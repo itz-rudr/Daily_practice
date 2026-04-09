@@ -1,4 +1,5 @@
 //Cyclically rotate array by one using reversal logic 
+
 #include<stdio.h>
 int main(){
 	//Initializing identifiers
