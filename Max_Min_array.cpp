@@ -1,4 +1,5 @@
-//To find msximum and minimum element in an array
+//To find maximum and minimum element in an array
+
 #include<stdio.h>
 int main(){
     int a[5];
